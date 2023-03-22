@@ -1,0 +1,18 @@
+
+hr {
+        width: 5%;
+        height: 1px;
+        
+   
+       border-style: dotted none none;
+        border-width: 7px;
+       border-spacing: 12px;
+       border-color: dimgrey;
+}
+     body{
+       background-color: #e2dfd2;
+     }   
+h1{
+   font-style: italic;
+   color: rgb(65, 64, 60);
+}
